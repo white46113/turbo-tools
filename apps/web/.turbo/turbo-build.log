@@ -1,0 +1,25 @@
+
+> @weebcoder/web@0.1.0 build /home/hb/Documents/test/promt-anti/apps/web
+> next build
+
+[1m[38;2;173;127;168m▲ Next.js 16.2.9[39m[22m (Turbopack)
+
+[37m[1m [22m[39m Creating an optimized production build ...
+[32m[1m✓[22m[39m Compiled successfully in 2.6s
+[?25l[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[1A[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[1A[2K[1G[?25h[?25l[37m[1m [22m[39m Finished TypeScript in 273ms  [36m.[39m[2K[1G[1A[2K[1G[?25h[37m[1m [22m[39m Finished TypeScript in 273ms    [32m[1m✓[22m[39m Finished TypeScript in 273ms 
+[?25l[37m[1m [22m[39m Collecting page data using 7 workers  [36m.[39m[2K[1G[1A[2K[1G[37m[1m [22m[39m Collecting page data using 7 workers  [36m..[39m[2K[1G[1A[2K[1G[37m[1m [22m[39m Collecting page data using 7 workers  [36m...[39m[2K[1G[1A[2K[1G[?25h[37m[1m [22m[39m Collecting page data using 7 workers in 520ms    [32m[1m✓[22m[39m Collecting page data using 7 workers in 520ms 
+[?25l[37m[1m [22m[39m Generating static pages using 7 workers (0/8)  [36m[    ][39m[2K[1G[1A[2K[1G[1A[2K[1G[?25h[32m[1m✓[22m[39m Generating static pages using 7 workers (8/8) in 176ms
+[?25l[37m[1m [22m[39m Finalizing page optimization  [36m.[39m[2K[1G[1A[2K[1G[?25h[37m[1m [22m[39m Finalizing page optimization in 8ms    [32m[1m✓[22m[39m Finalizing page optimization in 8ms 
+
+[4mRoute (app)[24m
+┌ ○ /
+├ ○ /_not-found
+├ ○ /dashboard
+├ ○ /percentage
+├ ○ /robots.txt
+└ ○ /sitemap.xml
+
+
+○  (Static)  prerendered as static content
+
+[?25h

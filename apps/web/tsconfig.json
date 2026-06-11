@@ -1,0 +1,10 @@
+{
+    "extends": "@weebcoder/config/typescript/nextjs",
+    "compilerOptions": {
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        }
+    }
+}
